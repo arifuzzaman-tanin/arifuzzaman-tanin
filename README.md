@@ -6,7 +6,8 @@ I am a Software engineer with 5+ years of experience building complex applicatio
 - 😄 XML, JSON 
 - 😄 MS SQL Server 2017 - 2008, MySQL
 - 😄 PHP, Laravel
+- 😄 Microservice
 
-I’ve working experience with VAT act, University Management, Bangladesh army, Fintech, Real estate, Telemedicine, and so on.
+I’ve working experience with VAT act, University Management, Bangladesh army, Fintech, Real estate, Telemedicine,Oil and Gas company (Petronas) and so on.
 I have experience working with non-tech teams, requirement capturing, direct communication to clients, developing, leading teams, and deploying applications. I can analyze and design applications for big or small companies. I want to provide my clients with an EFFECTIVE, USER-FRIENDLY, SECURE, and EFFICIENT system for their business.
 
