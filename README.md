@@ -5,7 +5,7 @@
 ### Hi there 👋, I am [Arifuzzaman Tanin]([https://rusty-sj.github.io/](https://github.com/arifuzzaman-tanin/arifuzzaman-tanin))! 😁
 
 <br/>
-I am a Software Engineer with over 6.5 years of experience building complex applications for local and international clients. I completed my bachelor’s degree in Software Engineering and am proficient in
+I am a proficient Software Engineer with more than 6.5 years of extensive experience in developing sophisticated applications for both domestic and international clients. I hold a Bachelor's degree in Software Engineering, which has equipped me with a strong foundation in this field. My expertise lies in a diverse range of technical domains, making me well-equipped to deliver cutting-edge solutions to meet complex business requirements.
 
 <br/>
   <p>
