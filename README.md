@@ -1,4 +1,12 @@
-<div align="center">
+<div align="left">
+  
+### Hi there 👋, I am [Arifuzzaman Tanin]([https://rusty-sj.github.io/](https://github.com/arifuzzaman-tanin/arifuzzaman-tanin))! 😁
+
+<br/>
+I am a Software Engineer with over 6.5 years of experience building complex applications for local and international clients. I completed my bachelor’s degree in Software Engineering and am proficient in
+
+<br/>
+  
   <p>
     <img src="https://img.shields.io/badge/C%23-ASP.NET,%20ASP.NET%20Core,%20API,%20Entity%20Framework-blue?style=for-the-badge&logo=c-sharp" alt="C#">
     <img src="https://img.shields.io/badge/PHP-Laravel,%20Eloquent-orange?style=for-the-badge&logo=php" alt="PHP">
@@ -14,4 +22,3 @@
     <img src="https://img.shields.io/badge/Microservices-Architecture-lightblue?style=for-the-badge&logo=micronaut" alt="Microservices">
   </p>
 </div>
-
