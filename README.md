@@ -1,6 +1,17 @@
-I am a Software engineer with 5.5+ years of experience building complex applications for local and international clients. I did my bachelor’s in Software Engineering. I am developing applications using:
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/C%23-ASP.NET,%20ASP.NET%20Core,%20API,%20Entity%20Framework-blue?style=for-the-badge&logo=c-sharp" alt="C#">
+    <img src="https://img.shields.io/badge/PHP-Laravel,%20Eloquent-orange?style=for-the-badge&logo=php" alt="PHP">
+    <img src="https://img.shields.io/badge/JavaScript-Vue.js,%20jQuery,%20Angular-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Database-MSSQL,%20MySQL-blueviolet?style=for-the-badge&logo=mysql" alt="Database">
+    <img src="https://img.shields.io/badge/Version%20Control-Git-green?style=for-the-badge&logo=git" alt="Version Control">
+    <img src="https://img.shields.io/badge/Docker-Containerization-lightgrey?style=for-the-badge&logo=docker" alt="Docker">
+    <img src="https://img.shields.io/badge/Azure,%20AWS-Cloud%20Platforms-blue?style=for-the-badge&logo=azure-devops" alt="Cloud Platforms">
+    <img src="https://img.shields.io/badge/HTML,%20CSS-Web%20Development-success?style=for-the-badge&logo=html5" alt="Web Development">
+    <img src="https://img.shields.io/badge/Project%20Management-Experience-9cf?style=for-the-badge&logo=notion" alt="Project Management">
+    <img src="https://img.shields.io/badge/Competitive%20Programming-Solutions-brightgreen?style=for-the-badge&logo=codeforces" alt="Competitive Programming">
+    <img src="https://img.shields.io/badge/Cache-Redis-important?style=for-the-badge&logo=redis" alt="Cache">
+    <img src="https://img.shields.io/badge/Microservices-Architecture-lightblue?style=for-the-badge&logo=micronaut" alt="Microservices">
+  </p>
+</div>
 
-<img src="https://raw.githubusercontent.com/arifuzzaman-tanin/arifuzzaman-tanin/main/skill.PNG"/>
-
-I’ve working experience with VAT act, University Management, Bangladesh army, Fintech, Real estate, Telemedicine,Oil and Gas company (Petronas) and so on.
-I have experience working with non-tech teams, requirement capturing, direct communication to clients, developing, leading teams, and deploying applications. I can analyze and design applications for big or small companies. I want to provide my clients with an EFFECTIVE, USER-FRIENDLY, SECURE, and EFFICIENT system for their business.
