@@ -1,12 +1,13 @@
 <div align="left">
-  
+
+<!-- ![](https://komarev.com/ghpvc/?username=arifuzzaman-tanin&label=Profile%20Visits&color=blue&style=for-the-badge)
+   -->
 ### Hi there 👋, I am [Arifuzzaman Tanin]([https://rusty-sj.github.io/](https://github.com/arifuzzaman-tanin/arifuzzaman-tanin))! 😁
 
 <br/>
 I am a Software Engineer with over 6.5 years of experience building complex applications for local and international clients. I completed my bachelor’s degree in Software Engineering and am proficient in
 
 <br/>
-  
   <p>
     <img src="https://img.shields.io/badge/C%23-ASP.NET,%20ASP.NET%20Core,%20API,%20Entity%20Framework-blue?style=for-the-badge&logo=c-sharp" alt="C#">
     <img src="https://img.shields.io/badge/PHP-Laravel,%20Eloquent-orange?style=for-the-badge&logo=php" alt="PHP">
@@ -21,4 +22,11 @@ I am a Software Engineer with over 6.5 years of experience building complex appl
     <img src="https://img.shields.io/badge/Cache-Redis-important?style=for-the-badge&logo=redis" alt="Cache">
     <img src="https://img.shields.io/badge/Microservices-Architecture-lightblue?style=for-the-badge&logo=micronaut" alt="Microservices">
   </p>
+
+  <br/>
+
+  [![Stats](https://github-readme-stats.vercel.app/api?username=arifuzzaman-tanin&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=arifuzzaman-tanin&show_icons=true&theme=radical)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=arifuzzaman-tanin&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=arifuzzaman-tanin&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
 </div>
