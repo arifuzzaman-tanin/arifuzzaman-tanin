@@ -5,13 +5,13 @@
 ### Hi there 👋, I am [Arifuzzaman Tanin]([https://rusty-sj.github.io/](https://github.com/arifuzzaman-tanin/arifuzzaman-tanin))! 😁
 
 <br/>
-I am a proficient Software Engineer with more than 6.5 years of extensive experience in developing sophisticated applications for both domestic and international clients. I hold a Bachelor's degree in Software Engineering, which has equipped me with a strong foundation in this field. My expertise lies in a diverse range of technical domains, making me well-equipped to deliver cutting-edge solutions to meet complex business requirements.
+Results-driven Full-stack Software Engineer with over 6.5 years of experience, specializing in diverse projects spanning fintech, oil & gas, e-commerce, telemedicine, and education. Proven expertise in leveraging cutting-edge technologies such as C#, .NET Core, Azure, and various front-end frameworks to deliver innovative solutions. Adept at collaborating across teams, contributing to R&D initiatives, and consistently exceeding project expectations.  I am proficient in
 
 <br/>
   <p>
     <img src="https://img.shields.io/badge/C%23-ASP.NET,%20ASP.NET%20Core,%20API,%20Entity%20Framework-blue?style=for-the-badge&logo=c-sharp" alt="C#">
     <img src="https://img.shields.io/badge/PHP-Laravel,%20Eloquent-orange?style=for-the-badge&logo=php" alt="PHP">
-    <img src="https://img.shields.io/badge/JavaScript-Vue.js,%20jQuery,%20Angular-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-Vue.js,%20jQuery,%20Angular,%20React-yellow?style=for-the-badge&logo=javascript" alt="JavaScript">
     <img src="https://img.shields.io/badge/Database-MSSQL,%20MySQL-blueviolet?style=for-the-badge&logo=mysql" alt="Database">
     <img src="https://img.shields.io/badge/Version%20Control-Git-green?style=for-the-badge&logo=git" alt="Version Control">
     <img src="https://img.shields.io/badge/Docker-Containerization-lightgrey?style=for-the-badge&logo=docker" alt="Docker">
