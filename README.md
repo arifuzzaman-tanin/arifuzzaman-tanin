@@ -5,7 +5,7 @@
 ### Hi there 👋, I am [Arifuzzaman Tanin]([https://rusty-sj.github.io/](https://github.com/arifuzzaman-tanin/arifuzzaman-tanin))! 😁
 
 <br/>
-Results-driven Full Stack Developer (C# .Net, PHP, Blazor and JavaScript: Vue JS, React, Angular, JQuery) with 7 years of experience, specializing in diverse projects spanning fintech, oil & gas, e-commerce, telehealth, and education. Proven expertise in leveraging cutting-edge technologies such as C#, .NET Core, Azure, and various front-end frameworks to deliver innovative solutions. Adept at collaborating across teams, contributing to R&D initiatives, and consistently exceeding project expectations.  I am proficient in
+I am a results-driven Full Stack Developer with 7 years of experience, specializing in C#, ASP.NET, .NET Core 3.1, .NET 6, .NET 7, Web API, PHP, Blazor, and JavaScript (Vue JS, React, Angular, jQuery) as well as message brokers. My expertise extends across diverse projects in fintech, oil & gas, e-commerce, telehealth, and education. I excel in leveraging cutting-edge technologies, including C#, .NET Core, Azure, and various front-end frameworks, to deliver innovative solutions. My strengths lie in collaborating across teams, contributing to R&D initiatives, and consistently surpassing project expectations. I am proficient in
 
 <br/>
   <p>
